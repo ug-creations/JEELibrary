@@ -6,7 +6,7 @@ import "./App.css";
 import Head from "./components/Head.jsx";
 import Home from "./components/Home.jsx";
 import Mat from "./components/Mat.jsx";
-import Che from "./components/che.jsx";
+import Che from "./components/Che.jsx";
 import Phy from "./components/Phy.jsx";
 import Closer from "./components/Closer.jsx";
 import Pyqs from "./components/Pyqs.jsx";
